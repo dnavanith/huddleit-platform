@@ -21,8 +21,4 @@
 3. Configure Supabase keys
 4. npm start
 
-Built with ❤️ for real-time social interactions!" > README.md
-
-git add README.md
-git commit -m "Add professional README"
-git push origin main
+Built with ❤️ for real-time social interactions!
