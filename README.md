@@ -1,5 +1,5 @@
 # Create/update README.md
-echo "# 🚀 HuddleIt - Social Media Platform
+🚀 HuddleIt - Social Media Platform
 
 ## Features
 - 📱 Real-time chat with video calling
